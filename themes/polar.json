@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "polar",
+  "name": "blaqat",
   "author": "blaqat",
   "themes": [
     {
@@ -33,7 +33,7 @@
         "element.background": "#ECEFF4",
         "element.hover": "#ECEFF4",
         "element.active": "#ADB9CC90",
-        "element.selected": "#4A4A4A",
+        "element.selected": "#EDEDF3",
         "element.disabled": "#3C3C3C",
         "drop_target.background": null,
         "ghost_element.background": null,
@@ -117,7 +117,7 @@
         "created.background": "#78995C",
         "created.border": "#78995C",
         "deleted": "#B3505A",
-        "deleted.background": "#CC7078",
+        "deleted.background": "#CC707860",
         "deleted.border": "#CC7078",
         "error": "#B3505A",
         "error.background": "#CC707810",
@@ -338,7 +338,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#D4D4D4",
+            "color": "#A66C9B",
             "font_style": "normal",
             "font_weight": null
           },
@@ -475,7 +475,7 @@
         "element.background": "#ECEFF4",
         "element.hover": "#ECEFF4",
         "element.active": "#D8DEE990",
-        "element.selected": "#4A4A4A",
+        "element.selected": "#eaecf1",
         "element.disabled": "#3C3C3C",
         "drop_target.background": null,
         "ghost_element.background": null,
@@ -557,7 +557,7 @@
         "created.background": "#A3BE8C",
         "created.border": "#A3BE8C",
         "deleted": "#BF616A",
-        "deleted.background": "#D99399",
+        "deleted.background": "#D9939960",
         "deleted.border": "#D99399",
         "error": "#BF616A",
         "error.background": "#D99399",
@@ -723,7 +723,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#D4D4D4",
+            "color": "#B48EAD",
             "font_style": "normal",
             "font_weight": null
           },

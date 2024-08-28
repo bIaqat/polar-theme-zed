@@ -1,6 +1,6 @@
 id = "polar-theme"
 name = "Polar Theme"
-version = "0.7.0"
+version = "0.8.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "A port of polar, a pure white light theme based from nord colors."
